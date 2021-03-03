@@ -82,10 +82,10 @@ canvas{
     /* TARGETING PARTICULAIR CARD */
     .card .heading {
         font-family: AlvaroCondensed;
-        font-size: 3em;
-        /*Keep the same margins in each box
+        font-size: 4em;
+        /*Keep the same margins in each box*/
     margin-top: 0.5em;
-    margin-bottom: 0.5em;*/
+    margin-bottom: 0.5em;
         text-transform: uppercase;
         color: rgb(240, 221, 241);
         word-break: break-word;
@@ -109,7 +109,7 @@ ol {
 
 .list li{
     /* Equal to letter-spacing: 140%;*/
-    margin-bottom: -30px;
+    margin-bottom: -10px;
 }
 
 .poster h1 {
